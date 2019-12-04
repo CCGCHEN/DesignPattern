@@ -30,23 +30,6 @@
                 android:textSize="@dimen/common_text_size"
                 android:text="策略模式" />
 
-
-
-            <TextView
-                android:id="@+id/strategy"
-                android:background="@color/colorPrimary"
-                android:layout_gravity="center_horizontal"
-                android:gravity="center"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:layout_marginLeft="@dimen/common_hor_margin"
-                android:layout_marginRight="@dimen/common_hor_margin"
-                android:layout_marginTop="@dimen/common_ver_margin"
-                android:layout_marginBottom="@dimen/common_ver_margin"
-                android:textSize="@dimen/common_text_size"
-                android:text="策略模式" />
-
-
             <TextView
                 android:id="@+id/simple_factory"
                 android:background="@color/colorPrimary"
@@ -60,8 +43,6 @@
                 android:layout_marginBottom="@dimen/common_ver_margin"
                 android:textSize="@dimen/common_text_size"
                 android:text="简单工厂" />
-
-
 
         </LinearLayout>
     </ScrollView>
